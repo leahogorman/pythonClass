@@ -13,3 +13,5 @@ lastNameUpper = lastName.upper()
 
 print("your first and last initials are {} . {} .".format(firstNameUpper[0], lastNameUpper[0]), end="")
 print("the temperature outside is {} degrees Fahrenheit and {} degrees Celsius".format(currentTempF, currentTempC))
+
+# https://github.com/leahogorman/pythonClass
