@@ -1,7 +1,7 @@
 #create a multiplication table for numbers 1 through 10
 
 start = 1
-end = 10
+end = input("how big a table would you like to print?")
 print("%3s" % " ", " | ", end="")
 for columns in range(start, end + 1):
     print("%4s" % columns, end="")
